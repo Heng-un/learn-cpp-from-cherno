@@ -1,20 +1,20 @@
      #include <iostream>
 
-int Multply(int a, int b)
+int Multiply(int a, int b)
 {
     return a * b;
 }
 
-void MultplyAndLog(int a, int b)
+void MultiplyAndLog(int a, int b)
 {
-    int result = Multply(a , b);
+    int result = Multiply(a , b);
     std::cout << result << std::endl;
 }
 
 int main()
 {
-    MultplyAndLog(3, 2);
-    MultplyAndLog(8, 5);
-    MultplyAndLog(90, 42);
+    MultiplyAndLog(3, 2);
+    MultiplyAndLog(8, 5);
+    MultiplyAndLog(90, 42);
     std::cin.get();
 }
