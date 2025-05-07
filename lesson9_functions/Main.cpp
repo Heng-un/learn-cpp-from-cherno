@@ -1,13 +1,13 @@
-     #include <iostream>
+#include <iostream>
 
-int Multiply(int a, int b)
+int Multiply(int a, int b)  //定义函数Multiply
 {
-    return a * b;
+    return a * b;   //返回值
 }
 
-void MultiplyAndLog(int a, int b)
+void MultiplyAndLog(int a, int b) //定义函数MultiplyAndLog
 {
-    int result = Multiply(a , b);
+    int result = Multiply(a , b);  //定义变量result = Multiply(a , b)
     std::cout << result << std::endl;
 }
 
