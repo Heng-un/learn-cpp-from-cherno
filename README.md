@@ -8,4 +8,6 @@
 2025.05.21  16lesson  
 2025.05.22  17lesson 18lesson  
 2025.05.24  19lesson 20lesson 21lesson 22lesson  
-2025.05.27  23lesson 24lesson
+2025.05.27  23lesson 24lesson  
+2025.06.01  25lesson 26lesson  
+2025.06.02  27lesson 28lesson
