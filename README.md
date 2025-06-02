@@ -7,4 +7,5 @@
 2025.05.19  14lesson 15lesson  
 2025.05.21  16lesson  
 2025.05.22  17lesson 18lesson  
-2022.05.24  19lesson 20lesson 21lesson 22lesson
+2025.05.24  19lesson 20lesson 21lesson 22lesson  
+2025.05.27  23lesson 24lesson
