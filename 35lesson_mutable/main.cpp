@@ -5,7 +5,7 @@ class Entity
 {
 private:
 	std::string m_Name;
-	mutable int m_DebugCount - 0;
+	mutable int m_DebugCount = 0;
 public:
 	const std::string& GetName() const 
 	{ 
