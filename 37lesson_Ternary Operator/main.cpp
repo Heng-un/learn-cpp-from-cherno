@@ -21,6 +21,7 @@ int main()
 
 	std::string rank = s_Level > 10 ? "Master" : "Beginner";
 
+	//技术层面上讲很可能会慢（The Cherno说的），但开销很小可以忽略（ChantGPT说的）。
 	std::string otherrank;
 	if (s_Level > 10)
 		otherrank = "Master";
